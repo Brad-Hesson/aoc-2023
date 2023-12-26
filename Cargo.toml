@@ -1,0 +1,12 @@
+[package]
+name = "aoc-2023"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.12.0"
+line-span = "0.1.5"
+num_enum = "0.7.1"
+range-set-blaze = "0.1.13"
+rayon = "1.8.0"
+winnow = "0.5.28"
